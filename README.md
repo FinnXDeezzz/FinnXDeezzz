@@ -22,4 +22,4 @@ I love discovering languages or frameworks that increase my productivity for my 
 
 ### Contact me 🤝
 
-I'm available on **Discord (</Finn>#6666**) and **[Twitter](https://twitter.com/FinnXDeezzz)**.
+I'm available on **Discord (&#60;/Finn&#62;#6666**) and **[Twitter](https://twitter.com/FinnXDeezzz)**.
