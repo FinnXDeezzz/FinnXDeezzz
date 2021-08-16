@@ -16,6 +16,8 @@ I'm working on a few projects!
 
 ### Skills & Tools 🖱️
 
+I use **Quick Mongo** and **Quick.db** as databases for my projects. For the rest i don't really use much tools.
+
 I can program with **Javascript/NodeJS** (75%), **HTML** (70%), **CSS** (60%), **Java** (Learning...)
 
 I love discovering languages or frameworks that increase my productivity for my new projects!
