@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Welcome to my page! I'm Finn, an 15 year old boy from **belgium** <img src="https://image.flaticon.com/icons/png/512/321/321216.png" />! 
+Welcome to my page! I'm Finn, an 15 year old boy from **belgium** <img src="https://image.flaticon.com/icons/png/512/321/321216.png" width="13"/>! 
 I also play a lot of games in my spare time!
 
 
